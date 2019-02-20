@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Steam.BBCode</id>
+    <version>1.0.0</version>
+    <title>Steam.BBCode</title>
+    <authors>Adrian Preuß</authors>
+    <owners>Adrian Preuß</owners>
+   <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Bizarrus/Steam.BBCode/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BBCode-Parser for Steam-API</description>
+    <copyright>Copyright 2019</copyright>
+    <tags>Steam BBCode</tags>
+  </metadata>
+</package>
