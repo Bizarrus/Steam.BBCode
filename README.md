@@ -4,20 +4,19 @@ BBCode-Parser for Steam-API
 ## Usage
 
 Import neccessary packages:
-```
+```C#
 using Steam.BBCode;
 using Steam.BBCode.Components;
 ```
 
 Start parsing your BBCode from Steam/Workshop:
-```
+```C#
 BBCode code = new BBCode();
 List<Component> components = code.Parse("<BBCODE>"); // Insert your BBCode here!
 ```
 
 After that, you can iterate over all `Components`:
-```
-
+```C#
 foreach(Component component in components) {
 	
 	// Bold
